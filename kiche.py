@@ -295,4 +295,4 @@ if __name__ == '__main__':
             reserve.iloc[index, 1] = reserve.iloc[index, 0]
             print(f"failed to replace index {index}")
             print(reserve.iloc[index, 0] + "\n")
-    reserve.to_csv(arg["--output"], sep="\t", header=False, index=False)        
+    reserve.to_csv(arg["--output"], sep="\t", header=False, index=False)
