@@ -4,7 +4,7 @@
 * scikit-learn>=0.23.2
 * numpy>=1.18.5
 * pandas>=1.0.5
-* docopts>=0.6.2
+* docopt>=0.6.2
 * scipy>=1.5.0
 
 ## Usage
