@@ -9,7 +9,9 @@
 
 ## Usage
 python kiche.py [(--train=foo.tsv) (--predict=bar.tsv) (--output=baz.tsv)] [--version] [--help]
+
 Currently .tsv format is hardcoded for all files
+
 Contents of the second column in the --predict file don't matter, they get overridden by predictions
 
 ## Current stats
