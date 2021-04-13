@@ -16,3 +16,5 @@ Contents of the second column in the --predict file don't matter, they get overr
 * P: 0.8581078431372547
 * R: 0.8582450980392154
 * F: 0.857680672268908
+
+![alt text](https://raw.githubusercontent.com/ruthenian8/Morphological-segmentation-for-K-iche-/main/sticker.png?raw=true)
